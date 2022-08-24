@@ -1,0 +1,16 @@
+{
+  "name": "tailwindcss-brad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  },
+  "scripts": {
+    "build": "npx tailwindcss -i ./input.css -o ./css/main.css",
+    "watch": "npx tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
