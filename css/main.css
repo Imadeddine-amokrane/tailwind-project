@@ -790,7 +790,7 @@ video {
 
 .bg-brightRed {
   --tw-bg-opacity: 1;
-  background-color: hsl(128 88% 59% / var(--tw-bg-opacity));
+  background-color: hsl(12 88% 59% / var(--tw-bg-opacity));
 }
 
 .bg-white {
@@ -907,7 +907,7 @@ video {
 
 .text-brightRed {
   --tw-text-opacity: 1;
-  color: hsl(128 88% 59% / var(--tw-text-opacity));
+  color: hsl(12 88% 59% / var(--tw-text-opacity));
 }
 
 .drop-shadow-md {
@@ -1005,7 +1005,7 @@ body {
 
 .hover\:text-brightRed:hover {
   --tw-text-opacity: 1;
-  color: hsl(128 88% 59% / var(--tw-text-opacity));
+  color: hsl(12 88% 59% / var(--tw-text-opacity));
 }
 
 .focus\:outline-none:focus {
